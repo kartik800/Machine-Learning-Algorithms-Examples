@@ -8,4 +8,8 @@ This repository contains various machine learning algorithms examples in a appro
    #### Regression Problems(continuous value)
         1. Linear Regression
           data source link:-https://www.kaggle.com/mustafaali96/weight-height
+          
+   #### Classification problems(discrete value)
+        2. Logistic Regression
+        data source link :-https://www.kaggle.com/uciml/iris
  
